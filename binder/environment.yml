@@ -1,0 +1,4 @@
+name: session-2
+dependencies:
+  - python
+  - requests
