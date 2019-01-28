@@ -1,13 +1,13 @@
-# 2-genes
+# 2-Python-basics
 
-Gene ontology, homology, blast, and Python introduction. 
+Intro to Python data structures and data representation.
 
 ### Notebooks
 
-+ 2.0: Introduction to Python
-+ 2.1: Gene ontology; features of a genome
-+ 2.2: Blast; homology
-+ 2.3: Python exercises
++ 2.0: Variables
++ 2.1: Lists, tuples, sets
++ 2.2: Dictionaries
++ 2.3: I/O: reading and writing data
 
 
 
